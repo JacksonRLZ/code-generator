@@ -6,6 +6,7 @@ import java.util.Scanner;
  * ACM 输入模板（多数之和）
  */
 public class MainTemplate {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
